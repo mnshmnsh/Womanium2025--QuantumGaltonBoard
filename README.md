@@ -1,1 +1,0 @@
-# Womanium2025--QuantumGaltonBoard
