@@ -23,7 +23,7 @@ This project builds on the foundations of the Quantum Fourier Transform and its 
 
 ### Team guidelines
 
-1.  Max. Team size - 3
+1.  Hisham Mansour, Yasir Mansour
     
 2.  All team participants must be enrolled in Womanium & WISER 2025 Quantum Program.
     
